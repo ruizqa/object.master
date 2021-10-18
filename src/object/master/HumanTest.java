@@ -15,6 +15,7 @@ public class HumanTest {
 		System.out.println(player1.health);
 		System.out.println(player2.health);
 		System.out.println(player3.health);
+		System.out.println(Samurai.howMany());
 
 	}
 
